@@ -1,0 +1,17 @@
+Claude Code Actual Timeout Testing Results - Wed Jul 16 19:20:18 PDT 2025
+====================================================
+
+Testing BASH_DEFAULT_TIMEOUT_MS: timeout=2000ms, sleep=5s
+  Result: FAILED/TIMEOUT in 5s
+
+Testing BASH_DEFAULT_TIMEOUT_MS: timeout=10000ms, sleep=2s
+  Result: FAILED/TIMEOUT in 2s
+
+Testing BASH_MAX_TIMEOUT_MS: timeout=3000ms, sleep=5s
+  Result: FAILED/TIMEOUT in 5s
+
+Testing BASH_DEFAULT_TIMEOUT_MS: timeout=100ms, sleep=1s
+  Result: FAILED/TIMEOUT in 1s
+
+Testing default timeout behavior...
+  Default: COMPLETED in 12s

@@ -1,0 +1,77 @@
+THE DATA THIEF
+
+Sarah Chen's coffee had gone cold three hours ago, but she barely noticed. The glow of her monitor cast sharp shadows across her face as she scrolled through the quarterly security audit reports for BioGenesis Corporation. As Senior Data Analyst, she'd seen plenty of irregularities over the years, but nothing like this.
+
+The anomaly was subtle—a series of database queries that shouldn't exist. Someone had been accessing the Phase III trial data for Neuraxin, their revolutionary Alzheimer's treatment. The drug was eighteen months from FDA approval and worth an estimated twelve billion dollars to whoever brought it to market first.
+
+Sarah's fingers flew across the keyboard, tracing the digital breadcrumbs. The access logs showed a pattern: late-night queries, always from different workstations, always covering their tracks. Almost.
+
+A soft chime from her secure phone made her jump. A text from an unknown number: "Stop digging or join your data in the digital graveyard."
+
+Her blood ran cold. Someone was watching.
+
+Sarah grabbed her access card and headed for the elevator, her mind racing. She needed to get to the server room on the fifteenth floor and run a deeper analysis from the source. The building was nearly empty at 11 PM, just the night security crew and a few dedicated researchers burning the midnight oil.
+
+The elevator hummed upward. Sarah checked her reflection in the polished steel doors—professional blazer, determined eyes, the kind of woman who'd clawed her way up from a state school computer science degree to the upper echelons of corporate America. She hadn't gotten here by backing down from threats.
+
+The fifteenth floor was dark except for the soft blue glow emanating from the server room. Sarah badged in and immediately noticed something wrong. The environmental controls showed the room temperature had spiked twenty minutes ago—someone had been here recently.
+
+She connected her laptop to the primary server and began her forensic analysis. The deeper she dug, the more sophisticated the theft became clear. This wasn't some script kiddie or disgruntled employee. This was professional corporate espionage, meticulously planned and expertly executed.
+
+"Working late, Sarah?"
+
+She spun around to find Marcus Webb, Head of Corporate Security, standing in the doorway. His usually immaculate suit was wrinkled, his tie loosened. In six years at BioGenesis, she'd never seen Marcus look anything less than perfectly composed.
+
+"Marcus, thank God. I've discovered a massive data breach. Someone's been systematically stealing our Neuraxin research. We need to—"
+
+"We need to stop." His voice was flat, emotionless. "Close the laptop, Sarah. Walk away."
+
+Something in his tone made her take a step back. "What are you talking about? This is corporate espionage. We have to report this to the FBI, to the board—"
+
+"The board already knows." Marcus moved into the room, closing the door behind him. "Did you really think a theft this sophisticated could happen without inside help?"
+
+Sarah's world tilted. "You?"
+
+"Me. Dr. Vasquez. Three others you've never met." Marcus pulled out his phone. "BioGenesis has been bleeding money for two years. The board needed an exit strategy. Selling our research to Sino-Pharm gives us a soft landing and ensures the drug still gets to market."
+
+"But the patients, the trials, the families counting on—"
+
+"Will get their medication. Just with a different label." Marcus was typing rapidly on his phone. "I've called cleanup. They'll be here in ten minutes. I'm sorry, Sarah. You should have taken the hint."
+
+Sarah's hand moved toward her laptop, but Marcus stepped forward. "Don't."
+
+She looked at the man she'd trusted, had even harbored a small crush on during her first year at the company. "How much? How much are they paying you to sell out everything we've worked for?"
+
+"Fifty million. Each." Marcus checked his watch. "Eight minutes now."
+
+Sarah weighed her options. The server room had one exit, and Marcus was blocking it. But she had one advantage—she knew these systems better than anyone.
+
+"You're right, Marcus. I should have taken the hint." She moved toward her laptop with deliberate slowness. "Let me just close this down properly. Wouldn't want to corrupt any data."
+
+As her fingers touched the keyboard, she triggered the emergency protocol she'd designed two years ago—a system-wide backup dump to an encrypted off-site server, accessible only with her biometric signature. Every piece of evidence she'd uncovered was now beyond their reach.
+
+Marcus's phone buzzed. He glanced at the screen and his face went pale. "What did you do?"
+
+"Insurance policy. Every security log, every access record, every trace of your theft is now in FBI custody. I programmed the system to automatically forward everything to Agent Chen—my brother—if I ever triggered the emergency protocol."
+
+The door behind Marcus burst open. Instead of the cleanup crew, three FBI agents in tactical gear stormed in, weapons drawn.
+
+"Marcus Webb, you're under arrest for corporate espionage and conspiracy to commit fraud."
+
+As they cuffed him, Marcus looked at Sarah with something approaching respect. "You never mentioned having a brother in law enforcement."
+
+Sarah smiled grimly as she saved her analysis to a secure drive. "You never asked about my family, Marcus. That was your first mistake. Your second was threatening the wrong data analyst."
+
+Agent David Chen stepped forward, removing his helmet. "Nice work, sis. Though next time, maybe call for backup before walking into the spider's web?"
+
+Sarah hugged her brother, relief flooding through her. "I had it under control."
+
+"Sure you did." David grinned. "Just like when you 'had under control' that time you decided to debug Dad's computer and accidentally wiped his entire hard drive."
+
+As the FBI led Marcus away, Sarah looked back at the server room that had nearly become her tomb. In the morning, she'd have to testify before the board, help the FBI build their case, and probably deal with a dozen reporters wanting the inside story.
+
+But tonight, she'd done what she'd always done best—followed the data wherever it led, even when it led straight into danger. The Neuraxin trials would continue under proper oversight, patients would get their medication, and BioGenesis would survive the scandal, stronger and more transparent than before.
+
+Sarah Chen, corporate data analyst and amateur detective, headed home to finally finish that cold cup of coffee. Tomorrow would bring new challenges, but for now, the data was safe, and justice would be served.
+
+THE END

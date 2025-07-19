@@ -1,0 +1,73 @@
+Claude Code Timeout Testing Results - Wed Jul 16 19:12:24 PDT 2025
+================================================
+
+Testing BASH_DEFAULT_TIMEOUT_MS (Default timeout for bash commands)...
+----------------------------------------
+  1000 ms: PASSED
+  10000 ms: PASSED
+  60000 ms: PASSED
+  300000 ms: PASSED
+  600000 ms: PASSED
+  1800000 ms: PASSED
+  3600000 ms: PASSED
+  86400000 ms: PASSED
+  2147483647 ms: PASSED
+  4294967295 ms: PASSED
+  9223372036854775807 ms: PASSED
+
+Testing BASH_MAX_TIMEOUT_MS (Maximum timeout for bash commands)...
+----------------------------------------
+  1000 ms: PASSED
+  10000 ms: PASSED
+  60000 ms: PASSED
+  300000 ms: PASSED
+  600000 ms: PASSED
+  1800000 ms: PASSED
+  3600000 ms: PASSED
+  86400000 ms: PASSED
+  2147483647 ms: PASSED
+  4294967295 ms: PASSED
+  9223372036854775807 ms: PASSED
+
+Testing CLAUDE_CODE_API_KEY_HELPER_TTL_MS (API key helper refresh interval)...
+----------------------------------------
+  1000 ms: PASSED
+  10000 ms: PASSED
+  60000 ms: PASSED
+  300000 ms: PASSED
+  600000 ms: PASSED
+  1800000 ms: PASSED
+  3600000 ms: PASSED
+  86400000 ms: PASSED
+  2147483647 ms: PASSED
+  4294967295 ms: PASSED
+  9223372036854775807 ms: PASSED
+
+Testing MCP_TIMEOUT (MCP server startup timeout)...
+----------------------------------------
+  1000 ms: PASSED
+  10000 ms: PASSED
+  60000 ms: PASSED
+  300000 ms: PASSED
+  600000 ms: PASSED
+  1800000 ms: PASSED
+  3600000 ms: PASSED
+  86400000 ms: PASSED
+  2147483647 ms: PASSED
+  4294967295 ms: PASSED
+  9223372036854775807 ms: PASSED
+
+Testing MCP_TOOL_TIMEOUT (MCP tool execution timeout)...
+----------------------------------------
+  1000 ms: PASSED
+  10000 ms: PASSED
+  60000 ms: PASSED
+  300000 ms: PASSED
+  600000 ms: PASSED
+  1800000 ms: PASSED
+  3600000 ms: PASSED
+  86400000 ms: PASSED
+  2147483647 ms: PASSED
+  4294967295 ms: PASSED
+  9223372036854775807 ms: PASSED
+
