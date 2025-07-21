@@ -1,0 +1,35 @@
+{
+  "hooks": {
+    "afterFileChange": [
+      {
+        "command": "echo '📝 File changed: $FILE_PATH' >> .claude/activity.log",
+        "description": "Log all file changes"
+      },
+      {
+        "command": "if [[ $FILE_PATH == *.py ]]; then echo '🐍 Python file modified: $FILE_PATH'; fi",
+        "description": "Notify on Python file changes"
+      }
+    ],
+    "afterResponse": [
+      {
+        "command": "echo '✅ Claude completed task at $(date)' >> .claude/activity.log",
+        "description": "Log Claude responses"
+      }
+    ],
+    "beforeToolUse": [
+      {
+        "command": "if [[ $TOOL_NAME == 'Bash' ]]; then echo '⚠️  Running shell command...'; fi",
+        "description": "Warn before shell execution"
+      }
+    ],
+    "afterToolUse": [
+      {
+        "command": "if [[ $EXIT_CODE -ne 0 ]]; then echo '❌ Tool failed: $TOOL_NAME with code $EXIT_CODE'; fi",
+        "description": "Alert on tool failures"
+      }
+    ]
+  },
+  "experimental": {
+    "parallelToolCalls": true
+  }
+}
