@@ -11,7 +11,7 @@ on:
     types: [opened, synchronize]
 
 permissions:
-  contents: read
+  contents: write  # Need write for branch creation
   issues: write
   pull-requests: write
   id-token: write  # Required for OIDC token
@@ -44,3 +44,5 @@ jobs:
           claude_access_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           # Provide GitHub token explicitly
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          # Try different model that might work better
+          model: claude-3-5-sonnet-20241022
