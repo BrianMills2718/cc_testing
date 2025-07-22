@@ -36,15 +36,12 @@ jobs:
           # For PRs, checkout the PR branch
           ref: ${{ github.event.pull_request.head.sha || github.sha }}
       
-      - name: Run Claude Code (Community Fork)
-        uses: grll/claude-code-action@main
+      - name: Run Claude Code
+        uses: anthropics/claude-code-action@beta
         with:
-          # Use OAuth for Max/Pro subscription
-          use_oauth: true
-          claude_access_token: ${{ secrets.CLAUDE_ACCESS_TOKEN }}
-          claude_refresh_token: ${{ secrets.CLAUDE_REFRESH_TOKEN }}
-          claude_expires_at: ${{ secrets.CLAUDE_EXPIRES_AT }}
+          # Use the OAuth token as API key (might work)
+          anthropic_api_key: ${{ secrets.CLAUDE_OAUTH_TOKEN }}
           # Provide GitHub token explicitly
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          # Try different model that might work better
+          # Try different model
           model: claude-3-5-sonnet-20241022
